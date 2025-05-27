@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"eyebrow": {
+				"__TYPE__": "FieldContent",
+				"value": "repeat",
+				"type": "Text"
+			},
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Voluptate amet amet do amet labore in sunt velit aliquip Lorem deserunt consequat fugiat. Incididunt non nostrud non aliquip eu ea dolor pariatur cillum. Enim laboris qui ex nostrud officia ut qui dolore ea ut consectetur."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
