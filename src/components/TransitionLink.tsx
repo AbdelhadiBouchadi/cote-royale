@@ -12,6 +12,8 @@ export type TransitionLinkProps = {
   | { field?: never; document?: never; href: string }
 );
 
+// TransitionLink is a component that renders a link with transition effects.
+
 export const TransitionLink = ({
   field,
   document: doc,
